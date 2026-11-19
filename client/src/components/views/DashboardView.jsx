@@ -45,11 +45,11 @@ export default function DashboardView({
           </div>
 
           <h1 className="text-2xl sm:text-3xl font-extrabold text-white tracking-tight leading-tight">
-            Prototipo Académico de Titulación y Custodia Web3
+            Prototipo: Arquitecturas Descentralizadas con Web3 y Smart Contracts
           </h1>
 
           <p className="text-xs sm:text-sm text-emerald-100/90 leading-relaxed font-normal max-w-2xl">
-            Entorno de investigación para la acreditación académica descentralizada, evaluación colegiada mediante Tribunal DAO, custodia de condiciones en IPFS y emisión de certificados NFT (ERC-721).
+            Plataforma institucional para la gestión, evaluación colegiada mediante Tribunal DAO y acreditación inmutable de proyectos de titulación a través de contratos inteligentes en la Universidad Politécnica Estatal del Carchi.
           </p>
 
           <div className="flex flex-wrap items-center gap-2 pt-1 text-xs font-medium text-emerald-100">

@@ -1192,7 +1192,7 @@ export default function App() {
                 </div>
               </div>
               <p className="text-xs text-slate-600 font-medium hidden sm:block">
-                Universidad Politécnica Estatal del Carchi • Prototipo Académico de Titulación Web3
+                Universidad Politécnica Estatal del Carchi • Arquitecturas Descentralizadas con Web3 y Smart Contracts
               </p>
             </div>
           </div>
@@ -4661,7 +4661,7 @@ function finalizeProject(uint256 projectId) external {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 space-y-3">
           <div className="flex flex-col sm:flex-row items-center justify-between gap-4 text-xs text-slate-500">
             <div>
-              © {new Date().getFullYear()} UPEC Web3 - Prototipo Académico de Titulación Web3 • Universidad Politécnica Estatal del Carchi. Reglas Académicas Simuladas.
+              © {new Date().getFullYear()} UPEC Web3 - Prototipo: Arquitecturas Descentralizadas con Web3 y Smart Contracts • Universidad Politécnica Estatal del Carchi.
             </div>
             <div className="flex items-center space-x-2 font-mono text-[11px] text-slate-600">
               <span>Contrato ProjectRegistry:</span>

@@ -864,7 +864,7 @@ export default function LoginScreen({ onLoginSuccess, isConnected, userAddress }
       {/* Footer Institucional Exterior */}
       <footer className="relative z-10 py-4 px-4 text-center space-y-1.5 text-xs text-emerald-100/80">
         <div className="font-medium">
-          © {new Date().getFullYear()} Universidad Politécnica Estatal del Carchi (UPEC) • Prototipo Académico de Titulación Web3
+          © {new Date().getFullYear()} Universidad Politécnica Estatal del Carchi (UPEC) • Prototipo: Arquitecturas Descentralizadas con Web3 y Smart Contracts
         </div>
         <p className="text-[11px] text-emerald-200/60 max-w-2xl mx-auto leading-relaxed">
           Prototipo desarrollado con fines académicos y de investigación. Los certificados, tokens y transacciones generados no poseen validez legal oficial ni valor monetario real (RF-32).
