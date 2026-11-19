@@ -49,7 +49,7 @@ export default function DashboardView({
           </h1>
 
           <p className="text-xs sm:text-sm text-emerald-100/90 leading-relaxed font-normal max-w-2xl">
-            Plataforma institucional para la gestión, evaluación colegiada mediante Tribunal DAO y acreditación inmutable de proyectos de titulación a través de contratos inteligentes en la Universidad Politécnica Estatal del Carchi.
+            Plataforma institucional para el registro seguro de tesis, evaluación y votación por tribunal docente mediante contratos inteligentes y emisión inmutable de títulos de grado en la Universidad Politécnica Estatal del Carchi.
           </p>
 
           <div className="flex flex-wrap items-center gap-2 pt-1 text-xs font-medium text-emerald-100">
